@@ -7,7 +7,7 @@
            sync-j="4" />
            
   <remote  name="dago"
-           fetch="https://github.com/fuckdedeurkruk"
+           fetch="https://github.com/DagobertX"
            sync-c="true"
            sync-j="4" />
 

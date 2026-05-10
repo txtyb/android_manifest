@@ -6,9 +6,10 @@
            sync-j="4" />
            
   <remote  name="dago"
-           fetch="https://github.com/fuckdedeurkruk"
+           fetch="https://github.com/DagobertX"
            sync-c="true"
            sync-j="4" />
+           
   <project path="bionic" name="PixelOS-AOSP/android_bionic" groups="pdk" remote="github" />
   <project path="bootable/deprecated-ota" name="PixelOS-AOSP/android_bootable_deprecated-ota" groups="pdk-cw" remote="github" />
   <project path="bootable/recovery" name="PixelOS-AOSP/android_bootable_recovery" groups="pdk" remote="github" />
