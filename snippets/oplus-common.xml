@@ -21,6 +21,5 @@
   <project path="kernel/oneplus/sm8850" name="kernel/common" revision="android16-6.12-lts" clone-depth="1" remote="aosp" />
   <project path="vendor/oneplus/sm8850-common" name="DagobertX/proprietary_vendor_oneplus_sm8850-common" />
   <project path="vendor/oneplus/ir" name="fuckdedeurkruk/proprietary_vendor_oneplus_ir" revision="16.0" remote="gitlab" />
-  <project path="vendor/oplus/camera" name="DagobertX/vendor_oplus_camera" />
   
 </manifest>
