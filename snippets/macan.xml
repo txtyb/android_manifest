@@ -11,8 +11,8 @@
            sync-c="true"
            sync-j="4" />
 
-  <project path="device/oneplus/macan" name="OnePlus-SM8850-Development/android_device_oneplus_macan" remote="chandu" />
-  <project path="device/oneplus/macan-kernel" name="OnePlus-SM8850-Development/android_device_oneplus_macan-kernel" remote="chandu" />
-  <project path="vendor/oneplus/macan" name="OnePlus-SM8850-Development/proprietary_vendor_oneplus_macan" remote="chandu" />
+  <project path="device/oneplus/macan" name="android_device_oneplus_macan" remote="chandu" />
+  <project path="device/oneplus/macan-kernel" name="android_device_oneplus_macan-kernel" remote="chandu" />
+  <project path="vendor/oneplus/macan" name="proprietary_vendor_oneplus_macan" remote="chandu" />
 
 </manifest>
