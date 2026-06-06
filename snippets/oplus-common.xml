@@ -3,11 +3,13 @@
 
   <remote  name="chandu"
            fetch="https://github.com/OnePlus-SM8850-Development"
+           revision="refs/heads/lineage-23.2"
            sync-c="true"
            sync-j="4" />
            
   <remote  name="dago"
            fetch="https://github.com/DagobertX"
+           revision="refs/heads/lineage-23.2"
            sync-c="true"
            sync-j="4" />
            
