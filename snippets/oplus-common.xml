@@ -11,7 +11,7 @@
            sync-c="true"
            sync-j="4" />
            
-  <remote  name="gitlab"
+  <remote  name="gitlab2"
            sync-c="true"
            sync-j="4"
            fetch="https://gitlab.com" />
@@ -20,6 +20,6 @@
   <project path="hardware/oplus" name="DagobertX/hardware_oplus" revision="bq2" />
   <project path="kernel/oneplus/sm8850" name="kernel/common" revision="android16-6.12-lts" clone-depth="1" remote="aosp" />
   <project path="vendor/oneplus/sm8850-common" name="OnePlus-SM8850-Development/proprietary_vendor_oneplus_sm8850-common" />
-  <project path="vendor/oneplus/ir" name="fuckdedeurkruk/proprietary_vendor_oneplus_ir" revision="16.0" remote="gitlab" />
+  <project path="vendor/oneplus/ir" name="fuckdedeurkruk/proprietary_vendor_oneplus_ir" revision="16.0" remote="gitlab2" />
   
 </manifest>
